@@ -303,33 +303,6 @@ For CIFAR-10, the classifier head is changed to 10 output classes and CIFAR-spec
 
 \---
 
-## ⭐ How to Make This Repository More Attractive
-
-To help more people discover and star this project:
-
-1. Use a clear repository name, for example:
-
-```text
-   dogs-vs-cats-transfer-learning
-   pytorch-dogs-cats-classification
-   image-classification-resnet-cifar10
-   ```
-
-2. Add GitHub topics:
-
-```text
-   pytorch, deep-learning, computer-vision, image-classification, resnet, mobilenet, transfer-learning, cifar10, class-imbalance, dogs-vs-cats
-   ```
-
-3. Add result images to the README, such as accuracy curves and loss curves.
-4. Keep the README in English for a wider audience, but include a short Chinese description if needed.
-5. Upload large model weights to **GitHub Releases**, **Google Drive**, **OneDrive**, or **Hugging Face**, then link them in the README instead of committing them directly.
-6. Pin this repository on your GitHub profile.
-7. Add a short demo section showing example predictions.
-8. Add a clean `requirements.txt`, `.gitignore`, and `LICENSE` file.
-
-\---
-
 ## ⚠️ Notes on Large Files
 
 GitHub blocks files larger than 100 MB in normal Git commits. This project contains large `.pth` model checkpoints, so you should not upload them directly with normal Git.
