@@ -324,7 +324,7 @@ This project is released for academic and educational purposes. You may add an M
 
 ## 🙋‍♂️ Author
 
-**Justin Ding**
+**Samuel**
 
 Research interests: Machine Learning, Deep Learning, Computer Vision, Large Language Models, and AI Agents.
 
