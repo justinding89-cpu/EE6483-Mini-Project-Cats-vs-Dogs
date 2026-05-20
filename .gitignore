@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Datasets
+data/
+dataset/
+archive/
+*.zip
+*.tar
+*.tar.gz
+
+# Model checkpoints and large binary files
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Local outputs
+outputs/
+runs/
+wandb/
+
+# System files
+.DS_Store
+Thumbs.db
